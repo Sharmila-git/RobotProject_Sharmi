@@ -18,6 +18,8 @@ My2ndTest
 My3rdTest
     Log    3rd Test
 
+My4tfTest
+    Log    4th Test
     
 # First Selenium Test
     # open browser    https://google.com    chrome
